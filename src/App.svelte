@@ -1,2 +1,7 @@
-<h1>Charity Funding</h1>
-<h3>For Tutorial purpose</h3> 
+<script>
+  import Home from './pages/Home.svelte';
+  import About from './pages/About.svelte';
+  import Contact from './pages/Contact.svelte'; 
+</script>
+
+<Home />
